@@ -34,6 +34,7 @@ namespace CALCULTVA
             tva1 = Convert.ToDouble(TVA.Text);
             val2 = val1 + val1 * tva1 / 100;
             valtva.Text = "Valoarea produsului cu TVA este:\n" + Convert.ToString(val2);
+            
 
         }
     }
