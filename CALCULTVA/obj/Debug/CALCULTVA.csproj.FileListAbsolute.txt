@@ -1,0 +1,10 @@
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\bin\Debug\CALCULTVA.exe.config
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\bin\Debug\CALCULTVA.exe
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\bin\Debug\CALCULTVA.pdb
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.csprojAssemblyReference.cache
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.Form1.resources
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.Properties.Resources.resources
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.csproj.GenerateResource.cache
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.csproj.CoreCompileInputs.cache
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.exe
+C:\Users\Laci\source\repos\CALCULTVA\CALCULTVA\obj\Debug\CALCULTVA.pdb
